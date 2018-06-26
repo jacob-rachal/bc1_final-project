@@ -135,12 +135,12 @@ li a {
 
 .acolumn {
     border: 2px solid yellow;
-    width: 30%;
+    width: 33%;
     display: inline-block;
     height: 705px;
-    margin: 10px;
+    /*margin: 10px;*/
     float: left;
-    padding: 5px;
+    /*padding: 5px;*/
     text-align: center;
     
 }
@@ -157,24 +157,29 @@ li a {
 }
 .testamonials {
     width: 100%;
-    height: 1600px;
-    margin-top: 270px;
+    height: 1000px;
+    /*margin-top: 270px;*/
     /*overflow: auto;*/
 }
 .body-headline-2 {
-    color: #78C9C5;  /*teal*/
-    /*background-color: #3c5798; */
+    color: #7FC9C5;  /*teal*/
+    background-color: #3c5798; 
     /*FOR SOME REASON, this is invading the acolumn section. NOT COOL*/
     /*sky blue*/
-    width: 300px;
+    width: 400px;
+   
+    display:inline-block;
     text-align: center;
-    margin: 20px auto;
+    margin: 0px auto;
+    margin-top: 5px;
+    margin-left: 34.9%;
+    
 }
 .b-row {
     border: 2px dotted #E8AE0B;
     width: 98%;
     display: inline-block;
-    height: 510px;
+    height: 350px;
     margin-left: 10px;
     margin-top: 25px;
     /*margin: 0 auto;*/
@@ -182,14 +187,14 @@ li a {
 .b-col {
     display: inline-block;
     width:45%;
-    height: 400px;
+    height: 320px;
     float: left;
     text-align: center;
 }
 .plowed, .newdoor, .chase {
     width:300px;
     height:200px;
-    margin-top: 15px;
+    margin-top: 25px;
 }
 
 /*include different minor style differences between the pic and text byte*/
