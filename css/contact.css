@@ -16,8 +16,8 @@
 .c-map {
     margin: 0 auto;
     width: 601px;
-    
     margin-top: 25px;
+    /*margin-bottom: 14px;*/
     /*display: inline-block;*/
     border: 7px dotted yellow;
     clear: both;
