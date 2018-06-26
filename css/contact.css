@@ -1,0 +1,26 @@
+/* === CONTACT STYLES w/ JULIE ===*/
+
+.contact-form {
+    
+    /*margin-left: 10px;*/
+    border: 10px solid red;
+    width: 700px;
+    height: 800px;
+    background-color:  #3c5798;
+    margin: 0 auto;
+    /* ^ to center the form on the page*/
+    margin-top: 70px;
+    clear: both;
+}
+
+.c-map {
+    margin: 0 auto;
+    width: 601px;
+    
+    margin-top: 25px;
+    /*display: inline-block;*/
+    border: 7px dotted yellow;
+    clear: both;
+}
+
+/* === END CONTACT STYLES === */

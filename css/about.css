@@ -1,0 +1,111 @@
+/* ABOUT and CONTACT body styles*/
+.about-container {
+    width: 100%;
+    height: 500px;
+    margin-top: 70px;
+    /*overflow: auto;*/
+    /*adds a vertical scroll bar*/
+}
+.body-headline {
+    color: #FF0000;  /*#78C9C5teal*/
+    background-color: #31FF2F; /*#3c5798sky blue*/
+    width: 300px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.acolumn {
+    border: 2px solid yellow;
+    width: 33%;
+    display: inline-block;
+    height: 705px;
+    /*margin: 10px;*/
+    float: left;
+    /*padding: 5px;*/
+    text-align: center;
+}
+.acolumn img{
+    width: 400px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.droids, .nike, .matthias{
+    width:200px;
+    height:200px;
+    margin-top: 15px;
+}
+.testamonials {
+    width: 100%;
+    height: 1000px;
+    /*margin-top: 270px;*/
+    /*overflow: auto;*/
+}
+.body-headline-2 {
+    color: #7FC9C5;  /*teal*/
+    background-color: #3c5798; 
+    /*FOR SOME REASON, this is invading the acolumn section. NOT COOL*/
+    /*sky blue*/
+    width: 400px;
+    display:inline-block;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 5px;
+    margin-left: 34.9%;
+}
+.b-row {
+    border: 2px dotted #E8AE0B;
+    width: 98%;
+    display: inline-block;
+    height: 350px;
+    margin-left: 10px;
+    margin-top: 25px;
+    /*margin: 0 auto;*/
+}
+.b-col {
+    display: inline-block;
+    width:45%;
+    height: 320px;
+    float: left;
+    text-align: center;
+}
+.plowed, .newdoor, .chase {
+    width:390px;
+    height:270px;
+    margin-top: 25px;
+}
+
+/*include different minor style differences between the pic and text byte*/
+.duo-column {
+    width: 100%;
+    clear: both;
+}
+
+.col {
+    width: 40%;
+    display: inline-block;
+    height: 100%;
+}
+
+.one {
+    float: left;
+    text-align: center;
+}
+
+.one img{ /*This targets the img tag within the 'one' tag*/
+    width: 600px;
+    height: auto;
+    margin-top: 20px;
+    
+}
+.two {
+    float: right;
+    text-align: center;
+    height: auto;
+}
+.two p {
+    margin: 20px;
+    margin-top: 20px;
+}
+
+/* ABOUT and CONTACT body END*/
