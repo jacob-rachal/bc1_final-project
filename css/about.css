@@ -78,18 +78,30 @@
 /*include different minor style differences between the pic and text byte*/
 .duo-column {
     width: 100%;
+    height: 90px;
     clear: both;
 }
 
 .col {
-    width: 40%;
+    width: 50%;
     display: inline-block;
     height: 100%;
+    margin: 0 auto;
+    margin-bottom: 5px;
 }
 
 .one {
     float: left;
+    width: 40%;
     text-align: center;
+    color: white;
+    margin-top: 2px;
+    margin-left: 90px;
+    background-color: green;
+    border-radius:60%;
+}
+.kinda {
+    margin-top: 9px;
 }
 
 .one img{ /*This targets the img tag within the 'one' tag*/
