@@ -79,10 +79,14 @@ li a {
     text-decoration: none;
 }
 .log {
-    margin-top: 100px;
+    margin-top: 120px;
+    height: 180px;
     background-color: red;
-    margin-bottom: 20px;
+    margin-bottom: 140px;
     text-align: center;
+}
+.polite {
+    color: red;
 }
 
 /*Banner styles*/

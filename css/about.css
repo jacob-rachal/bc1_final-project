@@ -121,8 +121,11 @@ h3 {
     height: auto;
 }
 .two p {
-    margin: 20px;
+    margin: 24px;
     margin-top: 20px;
+}
+.cat {
+    font-size: 20px;
 }
 
 /* ABOUT and CONTACT body END*/
