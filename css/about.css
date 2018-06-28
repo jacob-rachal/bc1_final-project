@@ -1,4 +1,7 @@
 /* ABOUT and CONTACT body styles*/
+h3 {
+    color: yellow;
+}
 .about-container {
     width: 100%;
     height: 500px;
@@ -9,9 +12,10 @@
 .body-headline {
     color: #FF0000;  /*#78C9C5teal*/
     background-color: #31FF2F; /*#3c5798sky blue*/
-    width: 300px;
+    width: 500px;
     text-align: center;
     margin: 20px auto;
+    border-radius:60%;
 }
 
 .acolumn {
@@ -42,16 +46,17 @@
     /*overflow: auto;*/
 }
 .body-headline-2 {
-    color: #7FC9C5;  /*teal*/
-    background-color: #3c5798; 
+    color: #FF0000;  /*teal*/
+    background-color: #31FF2F; 
     /*FOR SOME REASON, this is invading the acolumn section. NOT COOL*/
     /*sky blue*/
-    width: 400px;
+    width: 600px;
     display:inline-block;
     text-align: center;
     margin: 0px auto;
-    margin-top: 5px;
-    margin-left: 34.9%;
+    margin-top: 25px;
+    margin-left: 30%;
+    border-radius:60%;
 }
 .b-row {
     border: 2px dotted #E8AE0B;

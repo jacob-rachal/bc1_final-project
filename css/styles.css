@@ -1,3 +1,7 @@
+/*TODO: fix up about headers (and make more nice),
+add some enthusiasm to the contact page and get a new form,
+maybe add a faux sign-in html page?
+*/
 body {
     margin: 0 auto;
     background-image: url('../img/pexels-stars.jpeg');
@@ -74,7 +78,12 @@ body {
 li a {
     text-decoration: none;
 }
-
+.log {
+    margin-top: 100px;
+    background-color: red;
+    margin-bottom: 20px;
+    text-align: center;
+}
 
 /*Banner styles*/
 .banner {

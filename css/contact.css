@@ -13,10 +13,24 @@
     clear: both;
 }
 
+.directional p {
+    color: #F9F905;
+    display: inline-block;
+    width: 100%;
+    height: 30px;
+    background-color: rgba(100, 20, 160, 0.5);
+    margin: 50 auto;
+    margin-top: 150px;
+    border-radius:60%;
+    text-align: center;
+    
+}
+
 .c-map {
     margin: 0 auto;
     width: 601px;
     margin-top: 25px;
+    margin-bottom: 25px;
     /*margin-bottom: 14px;*/
     /*display: inline-block;*/
     border: 7px dotted yellow;
