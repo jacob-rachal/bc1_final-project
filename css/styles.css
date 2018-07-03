@@ -1,6 +1,7 @@
 /*TODO: fix up about headers (and make more nice),
 add some enthusiasm to the contact page and get a new form,
 maybe add a faux sign-in html page?
+EDIT: All complete! Yay!important
 */
 body {
     margin: 0 auto;
@@ -19,19 +20,13 @@ body {
     top: 0px;
      /* be 200px away from left boundary, can use percentagesa and top bottom*/
 }
-/*ul {*/
-/*    text-align: right;*/
-/*}*/
+
 .nav-items {
   /*list-style-type: none;*/
   /*display: inline-block;*/
   float: right;
-  /*color: #fff;*/
-  /*margin-right: 15px;*/
-  /*text-decoration: none;*/
-  /**/
-  
 }
+
 #logo {
     /*float: left;*/
     height: 100%;
@@ -104,12 +99,6 @@ li a {
     /*../img/croppedbooks.jpg*/
 }
 
-/*.banner img {*/
-/*    display: block;*/
-/*    width: 742;*/
-/*    height: 540;*/
-/*}*/
-
 .banner-text {
     background-color: blue;
     width: 400px;
@@ -120,15 +109,13 @@ li a {
     /*margin-left: 36%;*/
     margin: 0 auto;
     margin-top: 200px;
-    /*margin-right: 40%;*/
-    /*margin-bottom: 40%;*/
-    
 }
+
 .joe {
     color: #77FF59;
     margin: 7px 0px 0px 15px;
-    
 }
+
 .franklin {
     /*apply the following styles to all p tags that are within the banner-text class.*/
     color: #fff;
@@ -275,48 +262,3 @@ p {
 .spinner:hover {
     color: white;
 }
-/*.footer-btn {*/
-/*    background-color: salmon;*/
-/*    color: #fff;*/
-/*    width: 120px;*/
-/*    height: 50px;*/
-/*    font-size: 25px;*/
-/*    border-radius: 50px;*/
-/*    margin-left: 35%;*/
-/*    margin-top: 75px;*/
-    /*width: 100px;*/
-    /*height: 100px;*/
-    /*font-size: 20px;*/
-    /*border-radius: 50%;*/
-    
-/*}*/
-/* End of footer styles*/
-
-/* ABOUT styles page with Julie (removed)*/
-
-/*.body {*/
-/*    width: 100%;*/
-    /*border: 2px solid blue;*/
-/*}*/
-
-/*.body-text {*/
-/*    margin-top: 0px;*/
-    /*margin-left: 50px;*/
-/*    width: 47%;*/
-/*    height: 400px;*/
-/*    border: 2px solid blue;*/
-/*    float: left;*/
-/*}*/
-
-/*.body-pic {*/
-/*    width: 48%;*/
-/*    height: 400px;*/
-/*    float: right;*/
-    
-/*}*/
-
-/*p {*/
-/*    width: 600px;*/
-/*    height: 600px;*/
-/*    margin-left: 50px;*/
-/*}*/
