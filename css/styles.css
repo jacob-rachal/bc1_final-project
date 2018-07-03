@@ -4,6 +4,7 @@ maybe add a faux sign-in html page?
 */
 body {
     margin: 0 auto;
+    width: 99%;
     background-image: url('../img/pexels-stars.jpeg');
     font-family: 'Poppins', sans-serif; 
     /* font applies to everything within the body*/
@@ -79,7 +80,7 @@ li a {
     text-decoration: none;
 }
 .log {
-    margin-top: 120px;
+    margin-top: 112px;
     height: 180px;
     background-color: red;
     margin-bottom: 140px;
